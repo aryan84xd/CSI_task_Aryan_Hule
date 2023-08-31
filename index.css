@@ -358,11 +358,11 @@ c1_img{
     color: aliceblue;
 }
 .pt1{
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 
 }
 .pc1_t1{
-    font-size: 30px;
+    font-size: 20px;
     font-weight:1500;
     padding: 10px 6px;
 }
@@ -372,10 +372,10 @@ c1_img{
     padding: 5px 0px;
 }
 .pc1_img{
-    padding-bottom: px;
+    padding-bottom: 1px;
 }
 .pc1_img img{
-    width: 250px;
+    width: 180px;
     margin-top: 80px;
 }
 .features{
